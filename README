@@ -1,0 +1,10 @@
+新版12306抢票源码
+使用 selenium + webdriver 实现
+
+关于图片识别:
+调用第三方接口:http://103.46.128.47:47720/  识别率超96%
+详情前往littlebigluo的博客:https://blog.csdn.net/weixin_41578580/article/details/80052065
+
+抢票可选:日期(暂时不支持多天抢票),多车次,多乘客,多座次类型
+
+
